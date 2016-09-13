@@ -1,0 +1,95 @@
+{
+    "level": "Level",
+    "levels": "Levels",
+    "play": "Play",
+    "s": "s",
+    "m": "m",
+    "next": "Next",
+    "retry": "Retry",
+    "play_share_title": "I'm Playing Spor, and you?",
+    "instructions": "<h4>What is 'Spor'?</h4><p> A brilliant logic game designed to keep your brain up and running. </p><h4> What do I do with it? </h4><p> In each level you will get a set of math exercises that are a combination of icons and numbers. You have to translate the icons to numbers to reach the correct answer. </p><h4> How do I play it? </h4><p> At the bottom of each level you will see a list of optional results. Clicking one of them will end the level., we wish you for success. :) </p><h4> Are there any rules? </h4><p> Yes! First, each icon is a unique number. Second, sometimes, you have to guess the result, as it cannot always be collected from the exercises. </p><h4> How are the levels built? </h4><p> The higher the level, the more numbers and fewer exercises. Note that speed is also taken into account. </p><h4> Can I reach the last level of this wonderful game? </h4><p> We don't think so, as the higher levels require mutant math skills, but who knows? </p><h4> I very like this game, Can I contact you? </h4><p> Of course, email us at <a href='mailto:sporgamemail@gmail.com?subject=Query about Spor game'>sporgamemail@gmail.com</a> </p><h4>I like this game very much. Can I help you? </h4><p> On the home screen, there is a 'Share' button. When you click on it, you can share the game with friends and let them know there is a new timewaster on the market. </p> ",
+    "successStatusArr": {
+        "1": {
+            "text": "Your brain works like a brilliant Cog. you finished the level in %{time} ",
+            "icon": "fa-cogs"
+        },
+        "2": {
+            "text": "We know your heart beats faster, but hey, you finished the level in %{time} ",
+            "icon": "fa-heartbeat"
+        },
+        "3": {
+            "text": "Your way up, this level was completed in %{time} ",
+            "icon": "fa-line-chart"
+        },
+        "4": {
+            "text": "Like! You can do it! This level was completed in %{time} ",
+            "icon": "fa-thumbs-o-up"
+        },
+        "5": {
+            "text": "You are the champion, my friend. This level was completed in %{time} ",
+            "icon": "fa-trophy"
+        },
+        "6": {
+            "text": "Big smile and go to share with friends. This level was completed in %{time} ",
+            "icon": "fa-smile-o"
+        },
+        "7": {
+            "text": "If your wins were backed up by money, you would have been rich. This level took you %{time} ",
+            "icon": "fa-money"
+        },
+        "8": {
+            "text": "You have the magic touch; you completed this level in %{time} ",
+            "icon": "fa-magic"
+        },
+        "9": {
+            "text": "It's time to turn your lights on, this level was completed in %{time} ",
+            "icon": "fa-lightbulb-o"
+        },
+        "10": {
+            "text": "Shine bright like a diamond, you completed this level in %{time} ",
+            "icon": "fa-diamond"
+        },
+        "11": {
+            "text": "Congratulations, you completed this level in %{time} ",
+            "icon": "fa-birthday-cake"
+        },
+        "12": {
+            "text": "You hear the bombs? It's to celebrate your win in %{time} ",
+            "icon": "fa-bomb"
+        }
+    },
+    "failedStatusArr": {
+        "1": {
+            "text": "Get some coffee, you did not pass this level! ",
+            "icon": "fa-coffee"
+        },
+        "2": {
+            "text": "Thumbs down, you lost the game again",
+            "icon": "fa-thumbs-o-down"
+        },
+        "3": {
+            "text": "This is the highway to hell, stop losing!",
+            "icon": "fa-road"
+        },
+        "4": {
+            "text": "You may have lost the chance to go to the next level, but you have not lost our love ",
+            "icon": "fa-heart-o"
+        },
+        "5": {
+            "text": "We can imagine your face, looks familiar, eh?",
+            "icon": "fa-frown-o"
+        },
+        "6": {
+            "text": "Go eat yourself, as losing this level is really bad.",
+            "icon": "fa-cutlery"
+        },
+        "7": {
+            "text": "Your battery is empty, go recharge your self",
+            "icon": "fa-battery-empty"
+        },
+        "8": {
+            "text": "Maybe we got a bug, but you failed completing this level.",
+            "icon": "fa-bug"
+        }
+    }
+}

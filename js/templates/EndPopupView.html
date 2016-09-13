@@ -1,0 +1,10 @@
+<% if(levelSuccess) { %>
+<span class="fa <%= _$_.t('successStatusArr.'+statusRow+'.icon') %> statusIcon"></span>
+<span class="statusRow"><%= _$_.t('successStatusArr.'+statusRow+'.text', {time: (time/1000).toFixed(2) >= 60 ? ((time/1000).toFixed(2)/60).toFixed(2)+""+_$_.t('m') : (time/1000).toFixed(2)+""+_$_.t('s')}) %></span>
+<a class="goToNextLevel buttonLink"><span class="fa fa-angle-double-right"></span> <%= _$_.t('next')%></a>
+<% } else { %>
+<span class="fa <%= _$_.t('failedStatusArr.'+statusRow+'.icon') %> statusIcon"></span>
+<span class="statusRow"><%= _$_.t('failedStatusArr.'+statusRow+'.text') %></span>
+<span class="statusRow"></span>
+<% } %>
+<a class="reloadLevel second buttonLink"><span class="fa fa-refresh"></span> <%= _$_.t('retry') %></a>

@@ -1,0 +1,14 @@
+<div class="levelsWrapper">
+    <ul class="levelsList clearfix">
+        <% _.each(levelsCollection, function(l) { %>
+        <li>
+            <span class="link" data-href="#/play/<%= l.level %>"><span><span><%= l.level %></span><span class="times"><i class="fa fa-clock-o"></i> <%= (l.time/1000).toFixed(2) >= 60 ? ((l.time/1000).toFixed(2)/60).toFixed(2)+""+_$_.t('m') : (l.time/1000).toFixed(1)+""+_$_.t('s') %></span></span></span>
+        </li>
+        <% }) %>
+        <% for(var i=levelsCollection.length;i<levels;i++) { %>
+            <li class="disabled">
+                <span class="link"><span><span><%= i+1 %></span><span class="times"><i class="fa fa-lock"></i></span></span></span>
+            </li>
+            <% }  %>
+    </ul>
+</div>

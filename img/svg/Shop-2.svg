@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#25B7D3;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#FFFFFF;" d="M74.598,43C72.745,33.871,64.676,27,55,27c-9.676,0-17.745,6.871-19.598,16H23v4l4,2v38h56V49l4-2
+			v-4H74.598z"/>
+		<path style="fill:#40C9E7;" d="M67,49v34H43V49c0-6.615,5.361-12,12-12C61.532,37,67,42.277,67,49z"/>
+		<path style="fill:#6FDAF1;" d="M67,53.892V49c0-6.723-5.468-12-12-12c-6.639,0-12,5.385-12,12v28.892L67,53.892z"/>
+		<path style="fill:#FFFFFF;" d="M74.598,43C72.745,33.871,64.676,27,55,27c-9.676,0-17.745,6.871-19.598,16H23v4l4,2v38h16V63h7v24
+			h2V63h6v24h2V63h7v24h16V49l4-2v-4H74.598z M56,37.05c2.228,0.186,4.293,0.986,6.024,2.238L56,45.068V37.05z M54,37.051v8.018
+			l-6.034-5.776C49.689,38.041,51.753,37.236,54,37.051z M50,61h-7V49h7V61z M43.18,47c0.416-2.471,1.577-4.689,3.26-6.403
+			L53.126,47H43.18z M58,61h-6V49h6V61z M56.874,47l6.679-6.409c1.681,1.706,2.852,3.918,3.268,6.409H56.874z M67,61h-7V49h7V61z"/>
+		<rect x="71" y="71" style="fill:#40C9E7;" width="10" height="12"/>
+		<polygon style="fill:#FFFFFF;" points="83,63 71,63 71,71 87,71 		"/>
+		<path style="fill:#CFD3D4;" d="M87,71h-4v2c0,1.105,0.895,2,2,2s2-0.895,2-2V71z"/>
+		<path style="fill:#DF2C2C;" d="M83,71h-4v2c0,1.105,0.895,2,2,2s2-0.895,2-2V71z"/>
+		<path style="fill:#CFD3D4;" d="M79,71h-4v2c0,1.105,0.895,2,2,2s2-0.895,2-2V71z"/>
+		<path style="fill:#DF2C2C;" d="M75,71h-4v2c0,1.105,0.895,2,2,2s2-0.895,2-2V71z"/>
+		<rect x="71" y="63" style="fill:#FA5655;" width="4" height="8"/>
+		<rect x="75" y="63" style="fill:#FFFFFF;" width="4" height="8"/>
+		<polygon style="fill:#FA5655;" points="81,63 79,63 79,71 83,71 		"/>
+		<polygon style="fill:#FFFFFF;" points="27,63 39,63 39,71 23,71 		"/>
+		<rect x="29" y="71" style="fill:#40C9E7;" width="10" height="12"/>
+		<path style="fill:#CFD3D4;" d="M23,71h4v2c0,1.105-0.895,2-2,2s-2-0.895-2-2V71z"/>
+		<path style="fill:#DF2C2C;" d="M27,71h4v2c0,1.105-0.895,2-2,2s-2-0.895-2-2V71z"/>
+		<path style="fill:#CFD3D4;" d="M31,71h4v2c0,1.105-0.895,2-2,2c-1.105,0-2-0.895-2-2V71z"/>
+		<path style="fill:#DF2C2C;" d="M35,71h4v2c0,1.105-0.895,2-2,2s-2-0.895-2-2V71z"/>
+		<rect x="35" y="63" style="fill:#FA5655;" width="4" height="8"/>
+		<rect x="31" y="63" style="fill:#FFFFFF;" width="4" height="8"/>
+		<polygon style="fill:#FA5655;" points="29,63 31,63 31,71 27,71 		"/>
+		<circle style="fill:#40C9E7;" cx="76" cy="54" r="4"/>
+		<circle style="fill:#40C9E7;" cx="34" cy="54" r="4"/>
+		<rect x="43" y="83" style="fill:#FFFFFF;" width="24" height="4"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#FABC3D;" cx="55" cy="55" r="55"/>
+	<g>
+		<circle style="fill:#FFFFFF;" cx="55" cy="55" r="32"/>
+		<path style="fill:#DF2C2C;" d="M55,23c-17.673,0-32,14.327-32,32h64C87,37.327,72.673,23,55,23z"/>
+		<path style="fill:#FA5655;" d="M55,23c-17.673,0-32,14.327-32,32h32V23z"/>
+		<path style="fill:#3E3E3F;" d="M55,43c-5.223,0-9.654,3.342-11.302,8h-20.44C23.094,52.311,23,53.644,23,55s0.094,2.689,0.258,4
+			h20.44c1.649,4.658,6.08,8,11.302,8s9.654-3.342,11.302-8h20.44C86.906,57.689,87,56.356,87,55s-0.094-2.689-0.258-4h-20.44
+			C64.654,46.342,60.223,43,55,43z"/>
+		<circle style="fill:#FFFFFF;" cx="55" cy="55" r="6"/>
+	</g>
+</g>
+</svg>

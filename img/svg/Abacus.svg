@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#FABC3D;" cx="55" cy="55" r="55"/>
+	<g>
+		<g>
+			<rect x="35" y="31" style="fill:#F0F1F1;" width="40" height="4"/>
+		</g>
+		<path style="fill:#84462D;" d="M83,79V27c0-2.209-1.791-4-4-4s-4,1.791-4,4v52H35V27c0-2.209-1.791-4-4-4s-4,1.791-4,4v52
+			c-2.209,0-4,1.791-4,4s1.791,4,4,4h56c2.209,0,4-1.791,4-4S85.209,79,83,79z"/>
+		<g>
+			<rect x="35" y="47" style="fill:#F0F1F1;" width="40" height="4"/>
+		</g>
+		<g>
+			<rect x="35" y="63" style="fill:#F0F1F1;" width="40" height="4"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M60,35c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V35z"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M48,67c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V67z"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M60,67c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V67z"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M60,51c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V51z"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M72,51c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V51z"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M72,67c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V67z"/>
+		</g>
+		<g>
+			<polygon style="fill:#FFFFFF;" points="35,47 35,51 39.279,51 43.279,47 			"/>
+		</g>
+		<g>
+			<polygon style="fill:#FFFFFF;" points="35,31 35,35 55.279,35 59.279,31 			"/>
+		</g>
+		<g>
+			<path style="fill:#9C6144;" d="M35,55.279V27c0-2.209-1.791-4-4-4s-4,1.791-4,4v36.279L35,55.279z"/>
+		</g>
+		<g>
+			<path style="fill:#FA5655;" d="M56,27c-2.209,0-4,1.791-4,4v4c0,0.92,0.323,1.758,0.846,2.434l7.088-7.088
+				C59.62,28.449,57.985,27,56,27z"/>
+		</g>
+		<g>
+			<path style="fill:#FA5655;" d="M48,35c0,2.209-1.791,4-4,4s-4-1.791-4-4v-4c0-2.209,1.791-4,4-4s4,1.791,4,4V35z"/>
+		</g>
+	</g>
+</g>
+</svg>

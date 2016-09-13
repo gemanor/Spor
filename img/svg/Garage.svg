@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#32BEA6;" cx="55" cy="55" r="55"/>
+	<g>
+		<polygon style="fill:#FFFFFF;" points="55,32.834 31,49.12 31,79 79,79 79,49.12 		"/>
+		<rect x="37" y="51" style="fill:#818284;" width="36" height="28"/>
+		<g>
+			<path style="fill:#DF2C2C;" d="M82.996,51c-0.773,0-1.554-0.224-2.242-0.691L55,32.834L29.246,50.31
+				c-1.829,1.24-4.316,0.764-5.556-1.064c-1.24-1.828-0.764-4.316,1.064-5.556L55,23.166L85.246,43.69
+				c1.828,1.24,2.304,3.728,1.064,5.556C85.536,50.386,84.278,51,82.996,51z"/>
+		</g>
+		<g>
+			<rect x="37" y="54" style="fill:#CFD3D4;" width="36" height="2"/>
+		</g>
+		<g>
+			<rect x="37" y="59" style="fill:#CFD3D4;" width="36" height="2"/>
+		</g>
+		<g>
+			<rect x="37" y="64" style="fill:#CFD3D4;" width="36" height="2"/>
+		</g>
+		<g>
+			<rect x="37" y="69" style="fill:#CFD3D4;" width="36" height="2"/>
+		</g>
+		<g>
+			<rect x="37" y="74" style="fill:#CFD3D4;" width="36" height="2"/>
+		</g>
+		<rect x="23" y="83" style="fill:#0D9681;" width="64" height="4"/>
+		<path style="fill:#17B198;" d="M23,83l3.121-3.121C26.684,79.316,27.447,79,28.243,79h53.515c0.796,0,1.559,0.316,2.121,0.879
+			L87,83H23z"/>
+	</g>
+</g>
+</svg>

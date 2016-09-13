@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#25B7D3;" cx="55" cy="55" r="55"/>
+	<g>
+		<g>
+			<path style="fill:#F0F1F1;" d="M83,39v40c0,4.42-3.58,8-8,8H27c-2.21,0-4-1.79-4-4v-8c0-2.21,1.79-4,4-4h32c2.209,0,4-1.791,4-4
+				V53c0-3.31-2.69-6-6-6h-4c-3.31,0-6,2.69-6,6c0,1.105-0.895,2-2,2H29c-1.105,0-2-0.895-2-2V43c0-6.63,5.37-12,12-12h36
+				c2.96,0,5.55,1.61,6.92,4C82.61,36.17,83,37.54,83,39z"/>
+		</g>
+		<g>
+			<path style="fill:#CFD3D4;" d="M87,53c0,1.105-0.895,2-2,2h-2V39h2c1.105,0,2,0.895,2,2V53z"/>
+		</g>
+		<polygon style="fill:#CFD3D4;" points="39,57 39,55 35,55 35,67 37,69 39,67 39,60 43,60 43,57 		"/>
+		<g>
+			<circle style="fill:#CFD3D4;" cx="73" cy="50" r="4"/>
+		</g>
+		<circle style="fill:#FFFFFF;" cx="73" cy="65" r="5"/>
+		<path style="fill:#CFD3D4;" d="M73,72c-3.86,0-7-3.14-7-7s3.14-7,7-7s7,3.14,7,7S76.86,72,73,72z M73,60c-2.757,0-5,2.243-5,5
+			s2.243,5,5,5s5-2.243,5-5S75.757,60,73,60z"/>
+		<g>
+			<path style="fill:#FFFFFF;" d="M27,71c-2.21,0-4,1.79-4,4v8c0,1.093,0.44,2.082,1.15,2.803L38.954,71H27z"/>
+		</g>
+		<g>
+			<path style="fill:#FFFFFF;" d="M75,31H39c-6.63,0-12,5.37-12,12v10c0,1.104,0.895,2,2,2h16c1.105,0,2-0.896,2-2
+				c0-3.31,2.69-6,6-6h4c1.643,0,3.132,0.664,4.217,1.736l17.038-17.038C77.26,31.254,76.16,31,75,31z"/>
+		</g>
+		<g>
+			<path style="fill:#DADDDE;" d="M43,38c0-0.552-0.448-1-1-1h-2c-0.552,0-1,0.448-1,1v12c0,0.552,0.448,1,1,1h2
+				c0.552,0,1-0.448,1-1V38z"/>
+		</g>
+		<g>
+			<rect x="39" y="41" style="fill:#9E9FA0;" width="4" height="4"/>
+		</g>
+		<g>
+			<polygon style="fill:#FFFFFF;" points="35,55 35,67 37,69 37,55 			"/>
+		</g>
+		<g>
+			<path style="fill:#DF2C2C;" d="M83,39H49c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2h32.92C82.61,36.17,83,37.54,83,39z"/>
+		</g>
+		<g>
+			<path style="fill:#FA5655;" d="M47,37c0,1.1,0.9,2,2,2h21.953l4-4H49C47.9,35,47,35.9,47,37z"/>
+		</g>
+	</g>
+</g>
+</svg>

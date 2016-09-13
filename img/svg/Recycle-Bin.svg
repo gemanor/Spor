@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#E04F5F;" cx="55" cy="55" r="55"/>
+	<g>
+		<g>
+			<path style="fill:#F0F1F1;" d="M33,36h45l-3,49H39.767c-2.116,0-3.866-1.648-3.993-3.76L33,36z"/>
+		</g>
+		<g>
+			<path style="fill:#FFFFFF;" d="M78,36H33l2.774,45.24c0.031,0.51,0.16,0.991,0.362,1.43l41.55-41.55L78,36z"/>
+		</g>
+		<g>
+			<circle style="fill:#3E3E3F;" cx="72" cy="79" r="8"/>
+		</g>
+		<g>
+			<circle style="fill:#CFD3D4;" cx="72" cy="79" r="3"/>
+		</g>
+		<g>
+			<g>
+				<polygon style="fill:#099686;" points="66.725,63.633 65.369,60.742 61.878,53.347 65.673,51.569 70,60.909 68.762,62.68 				
+					"/>
+			</g>
+			<g>
+				<polygon style="fill:#12B2A0;" points="61.066,67 57.005,62.769 61.197,58.617 61.197,60.909 69.993,60.909 67.324,64.97 
+					61.066,64.97 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#099686;" points="43.711,60.909 55.104,60.909 55.104,64.961 44.801,64.95 43.717,63.08 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#12B2A0;" points="43.042,54.281 48.589,52.381 50.589,57.932 48.511,56.967 44.805,64.943 42.246,60.812 
+					44.883,55.137 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#099686;" points="57.72,42.443 51.733,52.135 47.933,49.788 53.356,41.029 55.517,41.089 				"/>
+			</g>
+			<g>
+				<polygon style="fill:#12B2A0;" points="63.358,45.138 62.059,50.857 56.285,49.64 58.199,48.38 53.36,41.035 58.22,41.03 
+					61.662,46.255 				"/>
+			</g>
+		</g>
+		<g>
+			<rect x="33" y="28" style="fill:#0C7367;" width="45" height="4"/>
+		</g>
+		<g>
+			<path style="fill:#12B2A0;" d="M78,28c-5-5-29-5-41-5l-4,5H78z"/>
+		</g>
+		<g>
+			<path style="fill:#099686;" d="M79,32H32c-0.552,0-1,0.448-1,1v2c0,0.552,0.448,1,1,1h47v2c0,0.552,0.448,1,1,1h2
+				c0.552,0,1-0.448,1-1v-6H79z"/>
+		</g>
+	</g>
+</g>
+</svg>

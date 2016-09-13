@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#32BEA6;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#FACB1B;" d="M47,55v26H27c-2.209,0-4-1.791-4-4V65.61c0-0.21,0.03-0.41,0.1-0.61c0.05-0.18,0.13-0.35,0.24-0.5
+			l7.07-10.61C30.78,53.33,31.4,53,32.07,53H45C46.1,53,47,53.9,47,55z"/>
+		<path style="fill:#FBE158;" d="M42.87,53h-10.8c-0.67,0-1.29,0.33-1.66,0.89L23.34,64.5c-0.11,0.15-0.19,0.32-0.24,0.5
+			c-0.07,0.2-0.1,0.4-0.1,0.61v7.26L42.87,53z"/>
+		<path style="fill:#FFFFFF;" d="M87,51c0-2.209-1.791-4-4-4H51c-2.209,0-4,1.791-4,4v30h36c2.209,0,4-1.791,4-4V51z"/>
+		<path style="fill:#6FDAF1;" d="M43,57v8H23.1c0.05-0.18,0.13-0.35,0.24-0.5l5-7.5H43z"/>
+		<rect x="31" y="69" style="fill:#3E3E3F;" width="4" height="2"/>
+		<circle style="fill:#3E3E3F;" cx="36" cy="80" r="7"/>
+		<circle style="fill:#CFD3D4;" cx="36" cy="80" r="3"/>
+		<circle style="fill:#3E3E3F;" cx="73" cy="80" r="7"/>
+		<circle style="fill:#CFD3D4;" cx="73" cy="80" r="3"/>
+		<path style="fill:#F0F1F1;" d="M76.299,39.479C75,41.544,73.122,43.033,71,43.861V47h10L76.299,39.479z"/>
+		<path style="fill:#FFFFFF;" d="M59.021,41.188c0.683,0.72,1.467,1.365,2.363,1.897c5.224,3.101,11.973,1.379,15.074-3.845
+			c3.699-6.233,0.469-14.35-6.641-16.24L59.021,41.188z"/>
+		<path style="fill:#F0F1F1;" d="M57.822,25.615c0.234,0.777,0.164,1.643-0.283,2.395c-0.447,0.753-1.173,1.229-1.967,1.396
+			l6.805,6.127l4.083-6.879L57.822,25.615z"/>
+		<circle style="fill:#CFD3D4;" cx="54.959" cy="26.48" r="3"/>
+		<path style="fill:#9CE5F4;" d="M28.34,57l-5,7.5c-0.11,0.15-0.19,0.32-0.24,0.5h7.226l8-8H28.34z"/>
+		<g>
+			<path style="fill:#21B2D1;" d="M61.358,56.79V68h-3.764V56.79h-3.91v-3.536h11.584v3.536H61.358z"/>
+			<path style="fill:#21B2D1;" d="M75.4,53.254h3.993L74.09,67.979h-3.411l-5.303-14.725h3.993l2.309,7.196l0.666,3.494h0.062
+				l0.666-3.473L75.4,53.254z"/>
+		</g>
+	</g>
+</g>
+</svg>

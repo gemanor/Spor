@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#25B7D3;" cx="55" cy="55" r="55"/>
+	<g>
+		<g>
+			<path style="fill:#D4A263;" d="M31,75l-5.789,2.894C23.856,78.572,23,79.957,23,81.472V83c0,2.209,1.791,4,4,4h40
+				c2.209,0,4-1.791,4-4v-1.528c0-1.515-0.856-2.9-2.211-3.578L63,75H31z"/>
+		</g>
+		<g>
+			<path style="fill:#D4A263;" d="M63,35l5.789-2.894C70.144,31.428,71,30.043,71,28.528V27c0-2.209-1.791-4-4-4H27
+				c-2.209,0-4,1.791-4,4v1.528c0,1.515,0.856,2.9,2.211,3.578L31,35H63z"/>
+		</g>
+		<g>
+			<rect x="31" y="35" style="fill:#E2E4E5;" width="32" height="40"/>
+		</g>
+		<g>
+			<rect x="31" y="67" style="fill:#FFFFFF;" width="32" height="4"/>
+		</g>
+		<g>
+			<rect x="31" y="59" style="fill:#FFFFFF;" width="32" height="4"/>
+		</g>
+		<g>
+			<rect x="31" y="51" style="fill:#FFFFFF;" width="32" height="4"/>
+		</g>
+		<g>
+			<rect x="31" y="43" style="fill:#FFFFFF;" width="32" height="4"/>
+		</g>
+		<g>
+			<rect x="31" y="35" style="fill:#FFFFFF;" width="32" height="4"/>
+		</g>
+		<g>
+			<path style="fill:#FFFFFF;" d="M86.915,36.803c-0.225-1.081-1.286-1.781-2.364-1.552C79.017,36.399,75,41.341,75,47v12
+				c0,4.411-3.589,8-8,8h-4v4h4c6.617,0,12-5.383,12-12V47c0-3.772,2.677-7.067,6.363-7.833
+				C86.446,38.942,87.14,37.884,86.915,36.803z"/>
+		</g>
+		<g>
+			<path style="fill:#EDBC7C;" d="M46.958,23H27c-2.209,0-4,1.791-4,4v1.528c0,1.515,0.856,2.9,2.211,3.578L31,35h15.957V23z"/>
+		</g>
+		<g>
+			<path style="fill:#EDBC7C;" d="M46.958,75H31l-5.789,2.895C23.856,78.572,23,79.957,23,81.472V83c0,2.209,1.791,4,4,4h19.957V75z
+				"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#25B7D3;" cx="55" cy="55" r="55"/>
+	<g>
+		<g>
+			<path style="fill:#FBE158;" d="M64,37h-7V25c0-1.104-0.896-2-2-2s-2,0.896-2,2v12h-7c-0.552,0-1,0.448-1,1s0.448,2,1,2h18
+				c0.552,0,1-1.448,1-2S64.552,37,64,37z"/>
+		</g>
+		<g>
+			<path style="fill:#FBE158;" d="M87,78c0,0.552-0.448,1-1,1H24c-0.552,0-1-0.448-1-1v-2c0-0.552,0.448-1,1-1h62
+				c0.552,0,1,0.448,1,1V78z"/>
+		</g>
+		<g>
+			<path style="fill:#84462D;" d="M70.556,53.333c0.795,0,1.444,0.65,1.444,1.444v18.778C72,74.35,71.35,75,70.556,75H38.778
+				c-0.794,0-1.444-0.65-1.444-1.444V54.778c0-0.794,0.65-1.444,1.444-1.444H70.556z"/>
+		</g>
+		<g>
+			<path style="fill:#9C6144;" d="M38.778,53.333c-0.795,0-1.444,0.65-1.444,1.444v18.778c0,0.386,0.156,0.736,0.405,0.996
+				l21.218-21.218H38.778z"/>
+		</g>
+		<g>
+			<polygon style="fill:#692E19;" points="61.217,53.333 58.278,53.333 56.783,51.167 52.551,51.167 51.056,53.333 48.116,53.333 
+				51.005,49 58.328,49 			"/>
+		</g>
+		<g>
+			<rect x="43.111" y="53.333" style="fill:#D4A263;" width="2.889" height="21.667"/>
+		</g>
+		<g>
+			<rect x="63.333" y="53.333" style="fill:#D4A263;" width="2.889" height="21.667"/>
+		</g>
+		<g>
+			<polygon style="fill:#EDBC7C;" points="46,66.29 46,53.333 43.111,53.333 43.111,69.179 			"/>
+		</g>
+		<g>
+			<g>
+				<path style="fill:#F3B607;" d="M83,75h-4V43c0-5.514-4.486-10-10-10H41c-5.514,0-10,4.486-10,10v32h-4V43c0-7.72,6.28-14,14-14
+					h28c7.72,0,14,6.28,14,14V75z"/>
+			</g>
+		</g>
+		<g>
+			<circle style="fill:#3E3E3F;" cx="81" cy="82" r="5"/>
+		</g>
+		<g>
+			<circle style="fill:#FBE158;" cx="81" cy="82" r="3"/>
+		</g>
+		<g>
+			<circle style="fill:#3E3E3F;" cx="29" cy="82" r="5"/>
+		</g>
+		<g>
+			<circle style="fill:#FBE158;" cx="29" cy="82" r="3"/>
+		</g>
+	</g>
+</g>
+</svg>

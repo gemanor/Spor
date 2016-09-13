@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#FABC3D;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#3E3E3F;" d="M55.04,27h-0.08C52.773,27,51,28.773,51,30.96V31h8v-0.04C59,28.773,57.227,27,55.04,27z"/>
+		<path style="fill:#DF2C2C;" d="M75,87H35v-4c0-1.105,0.895-2,2-2h36c1.105,0,2,0.895,2,2V87z"/>
+		<path style="fill:#BF0302;" d="M77,51h-6v-8.148C71,36.307,65.694,31,59.148,31h-8.026C44.427,31,39,36.427,39,43.122V81h32V67h6
+			c1.104,0,2-0.896,2-2V53C79,51.896,78.104,51,77,51z"/>
+		<path style="fill:#3E3E3F;" d="M83,61c0,0.552-0.448,1-1,1h-3v-6h3c0.552,0,1,0.448,1,1V61z"/>
+		<path style="fill:#3E3E3F;" d="M27,61c0,0.552,0.448,1,1,1h3v-6h-3c-0.552,0-1,0.448-1,1V61z"/>
+		<path style="fill:#FA5655;" d="M39,81h-2c-1.104,0-2,0.896-2,2v4h20v-6H39z"/>
+		<path style="fill:#DF2C2C;" d="M55,31h-3.878c-5.245,0-9.699,3.338-11.387,8H55V31z"/>
+		<path style="fill:#DF2C2C;" d="M39.006,43c0,0.041-0.006,0.081-0.006,0.122V51h-6c-1.104,0-2,0.896-2,2v12c0,1.104,0.896,2,2,2h6
+			v14h16V43H39.006z"/>
+		<path style="fill:#FA5655;" d="M65,75c0,1.105-0.895,2-2,2s-2-0.895-2-2V51c0-1.105,0.895-2,2-2s2,0.895,2,2V75z"/>
+		<path style="fill:#FA5655;" d="M57,75c0,1.105-0.895,2-2,2s-2-0.895-2-2V51c0-1.105,0.895-2,2-2s2,0.895,2,2V75z"/>
+		<path style="fill:#FA5655;" d="M49,75c0,1.105-0.895,2-2,2s-2-0.895-2-2V51c0-1.105,0.895-2,2-2s2,0.895,2,2V75z"/>
+		<path style="fill:#DF2C2C;" d="M75,41c0,1.105-0.895,2-2,2H37c-1.105,0-2-0.895-2-2l0,0c0-1.105,0.895-2,2-2h36
+			C74.105,39,75,39.895,75,41L75,41z"/>
+		<path style="fill:#FA5655;" d="M37,39c-1.104,0-2,0.896-2,2s0.896,2,2,2h18v-4H37z"/>
+	</g>
+</g>
+</svg>

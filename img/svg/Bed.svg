@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#32BEA6;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#84462D;" d="M83,35c0,0-11.999-7-27.999-7S27,35,27,35v14h56V35z"/>
+		<path style="fill:#9C6144;" d="M55,28c-15.999,0-28,7-28,7v14h28V28z"/>
+		<g>
+			<polygon style="fill:#E2E4E5;" points="87,64 23,65 27,49 83,49 			"/>
+		</g>
+		<g>
+			<path style="fill:#84462D;" d="M55.001,54C36.716,54,23,59.895,23,59.895V69h64v-9.105C87,59.895,73.287,54,55.001,54z"/>
+		</g>
+		<g>
+			<path style="fill:#FFFFFF;" d="M39.016,38.264c-0.044-0.198,0.002-0.404,0.129-0.572c0.127-0.168,0.323-0.283,0.545-0.321
+				c10.692-1.828,19.927-1.828,30.619,0c0.222,0.038,0.419,0.154,0.545,0.322s0.173,0.374,0.129,0.572
+				c-0.9,4.061-0.9,8.123,0,12.184c0.044,0.198-0.002,0.404-0.129,0.572c-0.127,0.168-0.323,0.283-0.545,0.321
+				c-10.692,1.828-19.927,1.828-30.619,0c-0.222-0.038-0.419-0.154-0.545-0.322c-0.127-0.168-0.173-0.374-0.129-0.572
+				C39.916,46.387,39.916,42.326,39.016,38.264z"/>
+		</g>
+		<g>
+			<path style="fill:#692E19;" d="M23,73v8.295V85c0,1.1,0.9,2,2,2c1.1,0,2.334-0.835,2.743-1.857L31,77h48l3.257,8.143
+				C82.666,86.165,83.9,87,85,87c1.1,0,2-0.9,2-2V73H23z"/>
+		</g>
+		<g>
+			<path style="fill:#84462D;" d="M55,73H23v8.295V85c0,1.1,0.9,2,2,2c1.1,0,2.334-0.835,2.743-1.857L31,77h24V73z"/>
+		</g>
+		<g>
+			<rect x="23" y="69" style="fill:#9C6144;" width="64" height="4"/>
+		</g>
+		<g>
+			<rect x="23" y="69" style="fill:#AF7653;" width="32" height="4"/>
+		</g>
+		<g>
+			<path style="fill:#9C6144;" d="M55,54c-18.285,0-32,5.895-32,5.895V69h32V54z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#FABC3D;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#FFFFFF;" d="M42.969,73c0,1.105,0.895,2,2,2h20c1.105,0,2-0.895,2-2V37c0-1.105-0.895-2-2-2h-20
+			c-1.105,0-2,0.895-2,2V73z"/>
+		<polygon style="fill:#E2E4E5;" points="44.969,35 45.969,31 51.969,31 52.969,35 		"/>
+		<path style="fill:#FFFFFF;" d="M85.969,47h-10c-0.552,0-1,0.448-1,1v3.697c0,0.197,0.058,0.39,0.168,0.555L78.969,55v20
+			c0,0.327-0.091,8-8,8c-7.706,0-7.993-7.189-8-8.009l-2,0.009h-2c0,4.15,2.508,12,12,12s12-7.85,12-12V55l3.832-2.748
+			c0.109-0.164,0.168-0.357,0.168-0.555V48C86.969,47.448,86.521,47,85.969,47z"/>
+		<path style="fill:#F0F1F1;" d="M76.969,47h8v-6c0-0.552-0.448-1-1-1h-6c-0.552,0-1,0.448-1,1V47z"/>
+		<path style="fill:#FFFFFF;" d="M49.255,26.72C47.198,24.251,43.737,23,38.969,23c-9.492,0-12,7.85-12,12v20
+			c-2.423,1.211-3.745,3.523-3.966,6.935c-0.018,0.276,0.08,0.547,0.269,0.749C23.46,62.885,23.724,63,24.001,63h9.935
+			c0.277,0,0.541-0.114,0.73-0.316c0.189-0.202,0.286-0.473,0.269-0.749c-0.222-3.412-1.544-5.724-3.966-6.935V35
+			c0-0.327,0.091-8,8-8c7.587,0,7.981,3.63,8,4.044l2-0.044h2C50.969,30.772,50.921,28.718,49.255,26.72z"/>
+		<path style="fill:#3E3E3F;" d="M29.969,63h2v3c0,0.552-0.448,1-1,1c-0.552,0-1-0.448-1-1V63z"/>
+		<path style="fill:#3E3E3F;" d="M25.969,63h2v3c0,0.552-0.448,1-1,1c-0.552,0-1-0.448-1-1V63z"/>
+		<circle style="fill:#F37A10;" cx="48.969" cy="69" r="2"/>
+		<circle style="fill:#FACB1B;" cx="53.969" cy="69" r="2"/>
+		<circle style="fill:#32BEA6;" cx="58.969" cy="69" r="2"/>
+		<rect x="78.969" y="44" style="fill:#5B5C5F;" width="1" height="2"/>
+		<rect x="81.969" y="44" style="fill:#5B5C5F;" width="1" height="2"/>
+	</g>
+</g>
+</svg>

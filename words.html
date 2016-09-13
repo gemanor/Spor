@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body {
+                direction: rtl;
+                padding-top: 20px;
+            }
+
+            body * {
+                box-siding: border-box;
+            }
+
+            span {
+                display: inline-block;
+                width: 30px;
+                border: 1px solid #ccc;
+                height: 30px;
+                vertical-align: bottom;
+                line-height: 28px;
+                border-left: medium none;
+            }
+
+            span:last-child {
+                border-left: 1px solid #ccc;
+            }
+
+            p {
+                margin: 0;
+                padding: 0;
+                text-align: center;
+            }
+
+            p.singleRow {
+                margin: 4px 0;
+                text-align: right;
+            }
+
+            .buttonBar {
+                position: fixed;
+                top: 0;
+                right: 0;
+                height: 20px;
+            }
+            #oldWords {height:10px;}
+            #allWords, #boxedWords {display:inline-block;width:49%;vertical-align:top;}
+        </style>
+    </head>
+    <body>
+        <div class="buttonBar">
+            <button class="goToRow" data-action='random'>
+                Start with random
+            </button>
+            <button class="goToRow" data-action='word'>
+                Start with word
+            </button>
+            <button class="addToTable" data-action='up'>
+                Add to Table - up
+            </button>
+            <button class="addToTable" data-action='down'>
+                Add to Table - down
+            </button>
+            <button id='removeLastRow'>
+                Remove last row
+            </button>
+            <textarea id="oldWords"></textarea>
+            <span id="wordsInList"></span>
+        </div>
+        <div id="allWords">
+
+        </div>
+        <div id="boxedWords">
+        </div>
+        <script src='js/vendor/jquery/dist/jquery.min.js'></script>
+        <script src='js/vendor/underscore/underscore-min.js'></script>
+        <script>
+            var wordsArr = [];
+
+            function loadPart(start) {
+                $.ajax({
+                    url: "words.json",
+                    success: function (response) {
+                        if (response.words) {
+                            var currentArr = response.words;
+                            for (var i = 0; i < currentArr.length; i++) {
+                                if (currentArr[i].indexOf('"') == -1 && currentArr[i].indexOf("'") == -1 && currentArr[i].indexOf(".") == -1 && currentArr[i].indexOf("-") == -1 && currentArr[i].indexOf("/") == -1 && currentArr[i].indexOf(" ") == -1 && currentArr[i].length < 7 && currentArr[i].length > 1) {
+                                    $('#allWords').append('<p class="singleRow">' + currentArr[i] + '</p>');
+                                    wordsArr.push(currentArr[i]);
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+            $(document).ready(function () {
+                loadPart('א');
+                $('#removeLastRow').on('click', function(){
+                    $('#boxedWords p:last-child').remove();
+                });
+                $('.goToRow').on('click', function () {
+                    if ($(this).data('action') == 'random') {
+                        $('#boxedWords').append('<p>' + $($('body p')[_.random(1, $('body p').length)]).text().trim() + '</p>');
+                    } else {
+                        var promtWord = prompt("Please enter word");
+                        if (promtWord != null) {
+                            $('#boxedWords').append('<p>' + promtWord + '</p>');
+                        }
+                    }
+                });
+                $('.addToTable').on('click', function () {
+                    var strToFind = $('#boxedWords p:last-child').text().trim();
+                    var foundWordsArr = []
+                    for (var i = 0; i < wordsArr.length; i++) {
+                        if ($(this).data('action') == 'down') {
+                            if (wordsArr[i].length == strToFind.length - 1) {
+                                var strArr = wordsArr[i].split(''),
+                                        toFindArr = strToFind.split('');
+                                var isTrue = true;
+                                for (var j = 0; j < strArr.length; j++) {
+                                    var letterIndexOf = toFindArr.indexOf(strArr[j]);
+                                    if (letterIndexOf == -1) {
+                                        isTrue = false;
+                                        break;
+                                    } else {
+                                        toFindArr.splice(letterIndexOf, 1);
+                                    }
+                                }
+                                if (isTrue == true) {
+                                    foundWordsArr.push(wordsArr[i]);
+                                }
+                            }
+                        } else {
+                            if (wordsArr[i].length == strToFind.length + 1) {
+                                var strArr = wordsArr[i].split(''),
+                                        toFindArr = strToFind.split('');
+                                var isTrue = true;
+                                for (var j = 0; j < toFindArr.length; j++) {
+                                    var letterIndexOf = strArr.indexOf(toFindArr[j]);
+                                    if (letterIndexOf == -1) {
+                                        isTrue = false;
+                                        break;
+                                    } else {
+                                         strArr.splice(letterIndexOf, 1);
+                                    }
+                                }
+                                if (isTrue == true) {
+                                    foundWordsArr.push(wordsArr[i]);
+                                }
+                            }
+                        }
+                    }
+                    var promtWord = prompt("Please enter word", foundWordsArr.join(','));
+
+                    if (promtWord != null) {
+                        $('#boxedWords').append('<p>' + promtWord + '</p>');
+                        $('#wordsInList').text($('#oldWords').val().indexOf('\n'+promtWord+'\n'));
+                    }
+                });
+            });
+            
+        </script>
+    </body>
+</html>

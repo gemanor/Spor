@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#25B7D3;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#F0F1F1;" d="M23,81c0,1.105,0.895,2,2,2h60c1.105,0,2-0.895,2-2V41c0-1.105-0.895-2-2-2H63l0-2
+			c0-1.105-0.895-2-2-2H25c-1.105,0-2,0.895-2,2v2V81z"/>
+		<path style="fill:#FFFFFF;" d="M63,39v-2c0-1.104-0.896-2-2-2H25c-1.104,0-2,0.896-2,2v2v42c0,0.259,0.053,0.505,0.143,0.732
+			L65.875,39H63z"/>
+		<rect x="23" y="51" style="fill:#3E3E3F;" width="64" height="28"/>
+		<rect x="41" y="53" style="fill:#21B2D1;" width="28" height="24"/>
+		<polygon style="fill:#8E6134;" points="69,77 69,62.997 63,55 46.493,77 		"/>
+		<polygon style="fill:#D4A263;" points="56.244,77 47,63 41,72.087 41,77 		"/>
+		<polygon style="fill:#5B5C5F;" points="23,51 23,79 25.875,79 53.875,51 		"/>
+		<circle style="fill:#3E3E3F;" cx="33" cy="43" r="4"/>
+		<rect x="31.01" y="41" style="fill:#818284;" width="4" height="4"/>
+		<circle style="fill:#5B5C5F;" cx="79" cy="59" r="4"/>
+		<path style="fill:#B6BCBD;" d="M34,58c0,0.55-0.45,1-1,1h-2c-0.55,0-1-0.45-1-1l0,0c0-0.55,0.45-1,1-1h2C33.55,57,34,57.45,34,58
+			L34,58z"/>
+		<path style="fill:#B6BCBD;" d="M34,62c0,0.55-0.45,1-1,1h-2c-0.55,0-1-0.45-1-1l0,0c0-0.55,0.45-1,1-1h2C33.55,61,34,61.45,34,62
+			L34,62z"/>
+		<path style="fill:#B6BCBD;" d="M34,66c0,0.55-0.45,1-1,1h-2c-0.55,0-1-0.45-1-1l0,0c0-0.55,0.45-1,1-1h2C33.55,65,34,65.45,34,66
+			L34,66z"/>
+		<polygon style="fill:#6FDAF1;" points="51.875,53 41,53 41,63.875 		"/>
+		<polygon style="fill:#FFFFFF;" points="63.005,60.995 65.252,63.989 67.503,60.989 63.005,54.995 58.499,61 60.75,64 		"/>
+		<polygon style="fill:#FFFFFF;" points="47.027,71 49.657,67.017 47.004,63 44.375,66.983 		"/>
+		<path style="fill:#FFFFFF;" d="M83,39H69v-3c0-0.552,0.448-1,1-1h12c0.552,0,1,0.448,1,1V39z"/>
+		<rect x="71" y="35" style="fill:#E2E4E5;" width="2" height="4"/>
+		<rect x="75" y="35" style="fill:#E2E4E5;" width="2" height="4"/>
+		<rect x="79" y="35" style="fill:#E2E4E5;" width="2" height="4"/>
+	</g>
+</g>
+</svg>

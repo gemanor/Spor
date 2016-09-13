@@ -1,0 +1,37 @@
+<div class='examsContainer'>
+    <% _.each(exams, function(exam, key){ %>
+    <div class='examRow clearfix'>
+        <div class='examBody' style='width:<%= (100/(exam.numbers.length+1))*exam.numbers.length %>%'>
+            <% _.each(exam.numbers, function(examPart, key) { %>
+            <div class='examImage' style='width:<%= 100/(exam.numbers.length)%>%'>
+                <img src='img/svg/<%= examPart.icon %>'/>
+            </div>
+            <% }) %>
+        </div>
+        <div class='examResult' style='width:<%= 100/(exam.numbers.length+1) %>%'>
+            <% if(key+1 !== exams.length){ %>
+            <span class='resultText'><%= exam.result %></span>
+            <% } else { %>
+            <span class='sign resultText resultSpan'>?</span>
+            <% } %>
+        </div>
+    </div>
+    <% }) %>
+</div>
+<footer class="clearfix">
+    <div class='keyBoardContainer'>
+        <div class='solutionsWrapper'>
+            <div class='solutionsScroller'>
+                <ul>
+                    <% _.each(resultOptions, function(result){ %>
+                    <li><%= result %></li>
+                    <% }) %>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class='popupWrapper'>
+    <div class='popupContainer'>
+    </div>
+</div>

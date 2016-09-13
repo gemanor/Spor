@@ -1,0 +1,12 @@
+<% if(typeof showHomeBtn !== "undefined" && showHomeBtn) { %>
+<a href="#/" class="navIcon"><span class="fa fa-home" data-id="goHome"></span></a>
+<% } %>
+<span class="headerTitle">
+    <%= text %>
+</span>
+<% if(typeof showLevelsBtn !== "undefined" && showLevelsBtn === true) { %>
+<a href="#/levels" class="navIcon right"><span class="fa fa-trophy"></span></a>
+<% } %>
+<% if(typeof showProgressBar !== "undefined" && showProgressBar === true) { %>
+<div class='levelProgress'><span></span></div>
+<% } %>

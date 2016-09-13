@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110px"
+	 height="110px" viewBox="0 0 110 110" style="enable-background:new 0 0 110 110;" xml:space="preserve">
+<g id="Artboard">
+</g>
+<g id="Multicolor">
+	<circle style="fill:#25B7D3;" cx="55" cy="55" r="55"/>
+	<g>
+		<path style="fill:#84462D;" d="M87,79v-4H23v4h4v4h-4v4h64v-4h-4v-4H87z M63,79v4H47v-4H63z M31,79h12v4H31V79z M79,83H67v-4h12
+			V83z"/>
+		<rect x="23" y="75" style="fill:#9C6144;" width="64" height="4"/>
+		<rect x="23" y="83" style="fill:#9C6144;" width="64" height="4"/>
+		<path style="fill:#EDBC7C;" d="M69,47c0,1.105-0.895,2-2,2H43c-1.105,0-2-0.895-2-2V25c0-1.105,0.895-2,2-2h24
+			c1.105,0,2,0.895,2,2V47z"/>
+		<path style="fill:#F4D0A1;" d="M67,23H43c-1.105,0-2,0.896-2,2v22c0,0.713,0.376,1.335,0.938,1.689L68.21,23.417
+			C67.873,23.16,67.457,23,67,23z"/>
+		<rect x="61" y="41" style="fill:#F4D0A1;" width="6" height="4"/>
+		<polygon style="fill:#FCF1E2;" points="59,31 57,29 55,31 53,29 51,31 51,23 59,23 		"/>
+		<path style="fill:#EDBC7C;" d="M84.917,73c0,1.105-0.895,2-2,2h-24c-1.105,0-2-0.895-2-2V51c0-1.105,0.895-2,2-2h24
+			c1.105,0,2,0.895,2,2V73z"/>
+		<path style="fill:#F4D0A1;" d="M82.917,49h-24c-1.105,0-2,0.896-2,2v22c0,0.713,0.376,1.335,0.938,1.689l26.272-25.272
+			C83.79,49.16,83.374,49,82.917,49z"/>
+		<rect x="76.917" y="67" style="fill:#F4D0A1;" width="6" height="4"/>
+		<polygon style="fill:#FCF1E2;" points="74.917,57 72.917,55 70.917,57 68.917,55 66.917,57 66.917,49 74.917,49 		"/>
+		<path style="fill:#EDBC7C;" d="M53.083,73c0,1.105-0.895,2-2,2h-24c-1.105,0-2-0.895-2-2V51c0-1.105,0.895-2,2-2h24
+			c1.105,0,2,0.895,2,2V73z"/>
+		<path style="fill:#F4D0A1;" d="M51.083,49h-24c-1.105,0-2,0.896-2,2v22c0,0.713,0.376,1.335,0.938,1.689l26.272-25.272
+			C51.956,49.16,51.54,49,51.083,49z"/>
+		<rect x="45.083" y="67" style="fill:#F4D0A1;" width="6" height="4"/>
+		<polygon style="fill:#FCF1E2;" points="43.083,57 41.083,55 39.083,57 37.083,55 35.083,57 35.083,49 43.083,49 		"/>
+	</g>
+</g>
+</svg>
